@@ -1,4 +1,6 @@
-# devops-postgres-debezium-replication
+# Debezium Replication
+
+docker-compose up
 
 # References
 - http://www.mastertheboss.com/jboss-frameworks/debezium/how-to-capture-data-changes-with-debezium
